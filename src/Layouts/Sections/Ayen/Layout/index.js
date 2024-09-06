@@ -1,0 +1,6 @@
+export { default as AHeader } from './Header'
+export { default as AHero } from './Hero'
+export { default as ABody } from './Body'
+export { default as AFooter } from './Footer'
+export { default as ASwiper } from './Swiper'
+export { default as AFAQS } from './FAQS'

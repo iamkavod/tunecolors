@@ -1,0 +1,5 @@
+export { default as THeader } from './Header'
+export { default as THero } from './Hero'
+export { default as TBody } from './Body'
+export { default as TFooter } from './Footer'
+export { default as TSwiper } from './Swiper'
