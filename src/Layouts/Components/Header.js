@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useNavigate } from 'react'
 import {
   Dialog,
   DialogPanel,

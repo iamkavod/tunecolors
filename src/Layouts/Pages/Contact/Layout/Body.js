@@ -14,7 +14,7 @@ export default function Body() {
               <h2 class="mb-10 font-bold text-2xl text-white before:block before:absolute before:bg-deepYellow before:content[''] relative before:w-20 before:h-1 before:-skew-y-3 before:-bottom-4">Contact Info</h2>
               <p class="font-bold text-blue-100 py-8 border-b border-white">
                 Phone Number:
-                <span class="font-normal text-lg text-deepYellow block">+234 816 279 6012</span>
+                <span class="font-normal text-lg text-deepYellow block">+234 816 279 6012 <br />  +22952241744</span>
               </p>
               <p class="font-bold text-blue-100 py-8 border-b border-white">
                 Email Address:

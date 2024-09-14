@@ -13,7 +13,7 @@ export default function Body() {
             <Swipper />
 
             {/* About Us */}
-            <section class="text-black body-font bg-marianaBlue mt-5">
+            <section class="text-black body-font bg-marianaBlue mt-5 mb-10">
                 <div class="mx-auto flex px-5 py-24 md:flex-row flex-col items-center max-w-[1500px]">
                     <div class="lg:flex-grow lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left md:mb-0 items-center text-start">
                         <h1 class="title-font sm:text-4xl text-6xl mb-4 font-bold text-white">About Us</h1>
@@ -36,7 +36,7 @@ export default function Body() {
             </section>
 
             {/* Team */}
-            <div className="px-4 py-16 mx-auto max-w-[1500px] md:px-24 lg:px-8 lg:py-20">
+            {/* <div className="px-4 py-16 mx-auto max-w-[1500px] md:px-24 lg:px-8 lg:py-20">
                 <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
                     <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
                         Our Team
@@ -195,7 +195,7 @@ export default function Body() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </main>
     )
 }

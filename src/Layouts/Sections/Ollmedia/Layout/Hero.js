@@ -10,10 +10,10 @@ export default function Hero() {
           <div className="relative flex flex-col items-center text-center lg:text-left lg:py-7 xl:py-8 lg:items-start lg:max-w-none max-w-3xl mx-auto lg:mx-0 lg:flex-1 lg:w-1/2">
 
             <h1 className="text-3xl leading-tight sm:text-4xl md:text-5xl xl:text-5xl font-bold text-white">
-              Élevez votre monde avec nos <span className="text-transparent bg-clip-text bg-gradient-to-br from-deepYellow from-20% to-deepYellow">médias, nos événements, nos documentaires et nos</span> innovations de style de vie..
+              Elevate your world with  <span className="text-transparent bg-clip-text bg-gradient-to-br from-deepYellow from-20% to-deepYellow">our media, events, documentaries and</span> lifestyle innovations.
             </h1>
             <p className="mt-8 text-white">
-              Découvrez des expériences de pointe qui inspirent, informent et transforment votre vie grâce à notre mélange dynamique de médias, d'événements captivants, de documentaires perspicaces et de solutions de style de vie avant-gardistes.
+              Discover cutting-edge experiences that inspire, inform and transform your life through our dynamic mix of media, captivating events, insightful documentaries and forward-thinking lifestyle solutions.
             </p>
             <div className="mt-10  w-full flex max-w-md mx-auto lg:mx-0">
               <div className="flex sm:flex-row flex-col gap-5 w-full">
@@ -29,7 +29,7 @@ export default function Hero() {
                     className="w-full py-3 outline-none bg-transparent" />
                   <button className="flex text-black justify-center items-center w-max min-w-max sm:w-max px-6 h-12 rounded-full outline-none relative overflow-hidden border duration-300 ease-linear after:absolute after:inset-x-0 after:aspect-square after:scale-0 after:opacity-70 after:origin-center after:duration-300 after:ease-linear after:rounded-full after:top-0 after:left-0 after:bg-deepYellow hover:after:opacity-100 hover:after:scale-[2.5] bg-white border-transparent hover:deepYellow">
                     <span className="hidden sm:flex relative z-[5] font-bold">
-                      Commencer
+                      Get Started
                     </span>
                     <span className="flex sm:hidden relative z-[5]">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"

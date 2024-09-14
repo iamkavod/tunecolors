@@ -13,8 +13,8 @@ const services = [
         <MdEventAvailable />
       </>
     ),
-    title: 'Événements',
-    description: 'Nous excellons dans la planification et la gestion d’événements, y compris les fonctions d’entreprise, les festivals culturels, les spectacles de talents, les événements sportifs et les rassemblements communautaires, garantissant des expériences mémorables à tous les participants.',
+    title: 'Events',
+    description: 'We excel in planning and managing events including corporate functions, cultural festivals, talent shows, sporting events and community gatherings, ensuring memorable experiences for all attendees.',
     delay: '0s',
   },
   {
@@ -24,8 +24,8 @@ const services = [
         <GrDocumentVideo />
       </>
     ),
-    title: 'Documentaires',
-    description: 'Nous produisons des documentaires captivants, en gérant tout, du développement du concept et de la recherche au tournage et à la post-production, garantissant une expérience engageante et informative pour le public.',
+    title: 'Documentaries',
+    description: 'We produce captivating documentaries, handling everything from concept development and research to filming and post-production, ensuring an engaging and informative experience for audiences.',
     delay: '0.1s'
   },
   {
@@ -35,8 +35,8 @@ const services = [
         <GiLifeTap />
       </>
     ),
-    title: 'Style de vie',
-    description: 'Nous améliorons les modes de vie en nous concentrant sur la gestion quotidienne, le bien-être, le fitness, la mode, la cuisine, les voyages et bien plus encore, garantissant une vie équilibrée et épanouissante à tous ceux que nous servons.',
+    title: 'Lifestyle',
+    description: 'We improve lifestyles by focusing on daily management, wellness, fitness, fashion, cuisine, travel and more, ensuring balanced and fulfilling lives for all we serve.',
     delay: '0.2s'
   },
   {
@@ -46,8 +46,8 @@ const services = [
         <MdOutlinePermMedia />
       </>
     ),
-    title: 'Médias',
-    description: "Nous nous spécialisons dans la création, la distribution et l'engagement de contenu, en créant des expériences numériques convaincantes sur les réseaux sociaux, le streaming en ligne et les plateformes interactives pour nous connecter avec le public.",
+    title: 'Media',
+    description: "We specialize in content creation, distribution and engagement, creating compelling digital experiences across social media, online streaming and interactive platforms to connect with audiences.",
     delay: '0.3s'
   },
 ];
@@ -60,9 +60,9 @@ export default function Body() {
         <div className="max-w-[1500px] mx-auto px-0">
           <header className="text-center mx-auto mb-12 lg:px-0">
             <h2 className="text-2xl leading-normal mb-2 font-bold text-black">
-              Nos prestations</h2>
+              Our services</h2>
             <p className="text-black leading-relaxed font-light text-3xl mx-auto pb-2">
-              Ce que nous offrons
+              What we offer
             </p>
           </header>
           <div className="grid lg:grid-cols-4 lg:px-0 px-4 -mx-4 text-center">
