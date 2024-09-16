@@ -1,14 +1,14 @@
 import React from 'react'
 import { GoDotFill } from "react-icons/go";
 import { AboutAYEN } from '../../../../Assets';
-import { AFAQS, ASwiper } from '.';
+import { AFAQS, ASponsors } from '.';
 
 export default function Body() {
   return (
     <main>
 
       {/* Swiper */}
-      <ASwiper />
+      <ASponsors />
 
       {/* Services */}
       <section class="text-gray-700 body-font border-t border-gray-200">

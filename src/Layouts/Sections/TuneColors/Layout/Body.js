@@ -158,7 +158,7 @@ export default function Body() {
       <FAQS />
       
       {/* Swiper */}
-      <TSwiper />
+      {/* <TSwiper /> */}
     </main>
   )
 }

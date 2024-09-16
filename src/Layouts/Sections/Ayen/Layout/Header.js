@@ -73,7 +73,7 @@ export default function Header() {
 
           <Popover className="relative">
             <PopoverButton className="flex items-center gap-x-1 text-xl font-bold leading-6 text-white focus:outline-none">
-              Resources
+            Divisions
               <ChevronDownIcon aria-hidden="true" className="h-5 w-5 flex-none text-gray-400" />
             </PopoverButton>
 
@@ -145,7 +145,7 @@ export default function Header() {
                 </a>
                 <Disclosure as="div" className="-mx-3">
                   <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-baxl font-bold leading-7 text-white hover:bg-gray-50">
-                    Resources
+                  Divisions
                     <ChevronDownIcon aria-hidden="true" className="h-5 w-5 flex-none group-data-[open]:rotate-180" />
                   </DisclosureButton>
                   <DisclosurePanel className="mt-2 space-y-2">
