@@ -44,9 +44,9 @@ export default function Sponsors() {
                                     <SwiperSlide>
                                         <img src={SponsorA} alt="cdss" className="w-28" />
                                     </SwiperSlide>
-                                    <SwiperSlide>
+                                    {/* <SwiperSlide>
                                         <img src={SponsorB} alt="cdss" className="w-28" />
-                                    </SwiperSlide>
+                                    </SwiperSlide> */}
                                     <SwiperSlide>
                                         <img src={SponsorC} alt="cdss" className="w-28" />
                                     </SwiperSlide>
