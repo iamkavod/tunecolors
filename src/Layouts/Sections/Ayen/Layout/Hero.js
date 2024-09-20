@@ -22,7 +22,7 @@ export default function Hero() {
               <h1 className="text-3xl font-bold tracking-tight text-white lg:text-6xl">Our passion lies in bringing people together and creating moments that matters</h1>
               <p className="mt-6 text-lg leading-8 text-white">Uniting hearts through shared experiences, we craft unforgettable moments that inspire connection and leave a lasting impact.</p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
-                <a href='https://paylink.payplus.africa/ayen' className="rounded-md bg-blue-500 px-10 py-3 text-xl font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">Register Your Participation</a>
+                <a href='https://paylink.payplus.africa/ayen2024' className="rounded-md bg-blue-500 px-10 py-3 text-xl font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">Register Your Participation</a>
               </div>
             </div>
             <div className="mt-16 flow-root sm:mt-24">

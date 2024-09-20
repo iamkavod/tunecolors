@@ -97,7 +97,7 @@ export default function Body() {
             A very easy registration process
           </p>
         </div>
-        <div className="grid gap-10 lg:grid-cols-4 sm:grid-cols-2">
+        <div className="grid gap-10 lg:grid-cols-3 md:grid-cols-2 grid-cols-1">
           <div className='border p-4 border-blue-500'>
             <div className="flex items-center justify-between mb-6">
               <p className="text-2xl font-bold text-white">Step 1</p>
@@ -125,7 +125,7 @@ export default function Body() {
               </svg>
             </div>
             <p className="text-white">
-              Click on <span className='text-white bg-blue-500 p-2'>Get Started</span> Button above and a form will open
+              Click on <span className='text-white bg-blue-500 p-2'>Register Your Participation</span> Button above and a form will open
             </p>
           </div>
           <div className='border p-4 border-blue-500'>
@@ -155,7 +155,7 @@ export default function Body() {
               </svg>
             </div>
             <p className="text-white">
-              Select either <span className='text-green-500'>Nigeria</span> or <span className='text-yellow-500'>Benin</span> and choose <span className='text-blue-500 font-bold'>Business</span> or <span className='text-blue-500 font-bold'>Participant</span> and fill the form.
+              Select Nigeria or Bénin Republic
             </p>
           </div>
           <div className='border p-4 border-blue-500'>
@@ -185,7 +185,7 @@ export default function Body() {
               </svg>
             </div>
             <p className="text-white">
-              Make Neccessary Payment based on the choice of country and participation
+              Make necessary payment based on the choice of Country
             </p>
           </div>
           <div className='border p-4 border-blue-500'>
@@ -207,7 +207,29 @@ export default function Body() {
               </svg>
             </div>
             <p className="text-white">
-              Once sucessful, an event code will be sent to your mail.
+              Once successful, a payment notification will be sent to your mail-Your access to the event
+            </p>
+          </div>
+          <div className='border p-4 border-blue-500'>
+            <div className="flex items-center justify-between mb-6">
+              <p className="text-2xl font-bold text-white">Check</p>
+              <svg
+                className="w-6 text-white"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                viewBox="0 0 24 24"
+              >
+                <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" />
+
+                <circle cx="12" cy="12" r="2" fill="currentColor" />
+              </svg>
+
+            </div>
+            <p className="text-white font-bold">
+              Additional information:
+              <span className='font-normal'> Check the Spam Folder: Sometimes emails are flagged as spam</span>
             </p>
           </div>
         </div>
